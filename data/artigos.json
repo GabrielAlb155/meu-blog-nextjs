@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "title": "Entendendo Server Components no Next.js",
+    "author": "João Silva",
+    "date": "2023-11-01",
+    "content": "Os Server Components permitem renderizar o HTML no servidor, reduzindo o bundle de JavaScript enviado ao cliente...",
+    "description": "Aprenda como os Server Components melhoram a performance no Next.js."
+  },
+  {
+    "id": 2,
+    "title": "Como fazer Deploy no Vercel",
+    "author": "Maria Souza",
+    "date": "2023-11-05",
+    "content": "O Vercel foi criado pelos mesmos desenvolvedores do Next.js, tornando o processo de deploy incrivelmente simples...",
+    "description": "Um guia passo a passo para colocar sua aplicação no ar."
+  }
+]
